@@ -1,0 +1,99 @@
+newgraph
+
+
+(* Put the legend at the top *)
+
+	legend top 
+
+xaxis size 5 hash 100 mhash 1
+  min 0 max 1250
+  label : Threshold
+
+
+yaxis min 0 max .8 size 2
+  label : Accuracy
+
+newline pts  0 0 1250 0
+
+newcurve marktype xbar cfill 1 1 0
+
+	(* The mark size says a width of 0.8,
+	 and in the legend, it has a height of
+	 five.  The units are the units of the
+	 x and y axes. *)
+	
+	marksize 40 
+
+	pts 
+	50
+	0.5
+
+	100
+	0.625951
+
+	150
+	0.641096
+
+	200
+	0.633094
+
+	250
+	0.614456
+
+	300
+	0.598608
+
+	350
+	0.583047
+
+	400
+	0.571942
+
+	450
+	0.56321
+
+	500
+	0.555078
+
+	550
+	0.5495
+
+	600
+	0.542175
+
+	650
+	0.53618
+
+	700
+	0.531201
+
+	750
+	0.526692
+
+	800
+	0.522808
+
+	850
+	0.519628
+
+	900
+	0.516422
+
+	950
+	0.513685
+
+	1000
+	0.511365
+
+	1050
+	0.508967
+
+	1100
+	0.506777
+
+	1150
+	0.504926
+
+	1200
+	0.501981
+
