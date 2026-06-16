@@ -42,9 +42,5 @@ int main(int argc, char** argv)
 			events = 0;
 		}
 	}
-
-
-
-
 	return 0;
 }

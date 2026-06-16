@@ -1,0 +1,125 @@
+newgraph
+xaxis min 24 max 276 shash 0 label : Events in region
+yaxis min 0 max 100 label : Percentage
+
+xaxis size 5 hash 100 mhash 1
+  min 0 max 1250
+  label : Events
+
+
+yaxis min 0 max 100 size 2
+  label : Accuracy
+
+legend defaults hjl vjc x 1300
+
+newline pts  0 0 1250 0
+
+
+newcurve marktype xbar marksize 50 cfill 1 1 0 label : False Positives
+  pts 
+		50 100
+		100 100
+		150 100
+		200 100
+		250 100
+		300 100
+		350 100
+		400 100
+		450 100
+		500 100
+		550 100
+		600 100
+		650 100
+		700 100
+		750 100
+		800 100
+		850 100
+		900 100
+		950 100
+		1000 100
+		1050 100
+		1100 100
+		1150 100
+		1200 100
+newcurve marktype xbar marksize 50 cfill .5 .5 0 label : False Negatives
+  pts
+		1000 77
+		100 86
+		1050 76
+		1100 72
+		1150 78
+		1200 76
+		150 88
+		200 88
+		250 89
+		300 89
+		350 87
+		400 85
+		450 84
+		500 86
+		50 85
+		550 87
+		600 87
+		650 86
+		700 84
+		750 86
+		800 82
+		850 80
+		900 82
+		950 76
+
+newcurve marktype xbar marksize 50 cfill 1 .5 .5 label : True Negatives
+  pts
+		1000 72
+		100 80
+		1050 70
+		1100 71
+		1150 78
+		1200 76
+		150 82
+		200 83
+		250 85
+		300 85
+		350 83
+		400 82
+		450 81
+		500 80
+		50 77
+		550 81
+		600 80
+		650 80
+		700 77
+		750 78
+		800 72
+		850 68
+		900 72
+		950 71
+
+
+newcurve marktype xbar marksize 50 cfill .5 0 0 label : True Positives
+
+  pts
+		1000 68
+		100 39
+		1050 66
+		1100 68
+		1150 78
+		1200 76
+		150 48
+		200 58
+		250 60
+		300 64
+		350 63
+		400 62
+		450 64
+		500 59
+		50 24
+		550 66
+		600 64
+		650 65
+		700 63
+		750 65
+		800 63
+		850 61
+		900 64
+		950 67

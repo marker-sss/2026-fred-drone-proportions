@@ -1,0 +1,168 @@
+networks/network_1000_1050.txt
+Confusion Matrix:
+a\p   0   1
+  0   7  47
+  1  10 136
+Fitness 0.511965
+
+networks/network_100_150.txt
+Confusion Matrix:
+a\p   0   1
+  0 2546 852
+  1 410 2407
+Fitness 0.796841
+
+networks/network_1050_1100.txt
+Confusion Matrix:
+a\p   0   1
+  0   1  50
+  1  12 123
+Fitness 0.414976
+
+networks/network_1100_1150.txt
+Confusion Matrix:
+a\p   0   1
+  0   6  54
+  1   2 129
+Fitness 0.499063
+
+networks/network_1150_1200.txt
+Confusion Matrix:
+a\p   0   1
+  0   0  44
+  1   0 157
+Fitness 0.438547
+
+networks/network_1200_1250.txt
+Confusion Matrix:
+a\p   0   1
+  0   0  34
+  1   0 110
+Fitness 0.433071
+
+networks/network_150_200.txt
+Confusion Matrix:
+a\p   0   1
+  0 1298 466
+  1 224 1847
+Fitness 0.816314
+
+networks/network_200_250.txt
+Confusion Matrix:
+a\p   0   1
+  0 727 344
+  1 132 1654
+Fitness 0.813788
+
+networks/network_250_300.txt
+Confusion Matrix:
+a\p   0   1
+  0 525 242
+  1  87 1288
+Fitness 0.824084
+
+networks/network_300_350.txt
+Confusion Matrix:
+a\p   0   1
+  0 352 194
+  1  62 1081
+Fitness 0.81373
+
+networks/network_350_400.txt
+Confusion Matrix:
+a\p   0   1
+  0 263 173
+  1  50 812
+Fitness 0.790767
+
+networks/network_400_450.txt
+Confusion Matrix:
+a\p   0   1
+  0 224 161
+  1  36 684
+Fitness 0.784348
+
+networks/network_450_500.txt
+Confusion Matrix:
+a\p   0   1
+  0 158 142
+  1  27 585
+Fitness 0.762666
+
+networks/network_500_550.txt
+Confusion Matrix:
+a\p   0   1
+  0 138  93
+  1  44 401
+Fitness 0.76119
+
+networks/network_50_100.txt
+Confusion Matrix:
+a\p   0   1
+  0 7095 1992
+  1 1039 3216
+Fitness 0.751847
+
+networks/network_550_600.txt
+Confusion Matrix:
+a\p   0   1
+  0 103  82
+  1  39 427
+Fitness 0.752933
+
+networks/network_600_650.txt
+Confusion Matrix:
+a\p   0   1
+  0  85  72
+  1  37 350
+Fitness 0.737292
+
+networks/network_650_700.txt
+Confusion Matrix:
+a\p   0   1
+  0  69  62
+  1  27 295
+Fitness 0.738427
+
+networks/network_700_750.txt
+Confusion Matrix:
+a\p   0   1
+  0  60  67
+  1  32 268
+Fitness 0.69602
+
+networks/network_750_800.txt
+Confusion Matrix:
+a\p   0   1
+  0  42  46
+  1  25 212
+Fitness 0.699251
+
+networks/network_800_850.txt
+Confusion Matrix:
+a\p   0   1
+  0  27  48
+  1  27 170
+Fitness 0.618941
+
+networks/network_850_900.txt
+Confusion Matrix:
+a\p   0   1
+  0  19  52
+  1  33 161
+Fitness 0.550049
+
+networks/network_900_950.txt
+Confusion Matrix:
+a\p   0   1
+  0  19  41
+  1  22 143
+Fitness 0.597861
+
+networks/network_950_1000.txt
+Confusion Matrix:
+a\p   0   1
+  0  10  50
+  1  10 139
+Fitness 0.536243
+
